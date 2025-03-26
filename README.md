@@ -19,4 +19,4 @@ A basic spam SMS classification system
     Decision Tree: 0.98
     Random Forest (Ensemble): 0.994
 ## 4)Classification.
-    check with test data.
+    check with sample messages.
